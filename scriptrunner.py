@@ -1,3 +1,0 @@
-import snowhouse_utils
-
-print(snowhouse_utils.generate_unionall_command_for_replication_databases())
